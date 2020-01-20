@@ -1,0 +1,1397 @@
+--2020-01-20 09:27:32--  http://aot.ru/
+Распознаётся aot.ru (aot.ru)… 195.70.213.239
+Подключение к aot.ru (aot.ru)|195.70.213.239|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+Загрузка robots.txt; не обращайте внимания на ошибки.
+--2020-01-20 09:27:32--  http://aot.ru/robots.txt
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 0 [text/plain]
+Сохранение в: «aot.ru/robots.txt»
+
+     0K                                                        0,00 =0s
+
+2020-01-20 09:27:32 (0,00 B/s) - «aot.ru/robots.txt» сохранён [0/0]
+
+--2020-01-20 09:27:32--  http://aot.ru/aot.css
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:32--  http://aot.ru/images/transparent.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:32--  http://aot.ru/index.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:32--  http://aot.ru/history.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/onlinedemo.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/download.php
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/technology.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/old_news.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/product.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:33 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:33--  http://aot.ru/images/pankrat_email.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/search.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/search1.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/docs/morph.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/download/RusLemmatizer.zip
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:33--  http://aot.ru/download/MorphWizard.zip
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/download/concord.zip
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/download/Morphology.zip
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/download/LexGroup.rar
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/docs/graphan.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/docs/rusmorph.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/docs/synan.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/docs/seman.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/images/tech-sch.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/docs/aoss.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:34--  http://aot.ru/docs/ross.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/timeross.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/collocs.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/thes.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/oborots.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/transfer.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/fragman.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/mapost.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/sokirko/sokirko-candid-1.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/sokirko/sokirko-candid-2.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/sokirko/sokirko-candid-3.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/sokirko/sokirko-candid-4.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:35--  http://aot.ru/docs/sokirko/sokirko-candid-5.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/sokirko/sokirko-candid-6.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/sokirko/sokirko-candid-7.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/sokirko/sokirko-candid-8.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/sokirko/sokirko-candid-eng.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/Dialog_text.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/OverviewOfConcordance.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/sokirko/Dialog2004.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/Nozhov/chapter1.pdf
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/Nozhov/chapter2.pdf
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/Nozhov/chapter3.pdf
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:36--  http://aot.ru/docs/Nozhov/chapter4.pdf
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/docs/Nozhov/supplement1.pdf
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/docs/Nozhov/supplement2.pdf
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/docs/Nozhov/msot.pdf
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/docs/RusCorporaHMM.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/1
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:37 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:37--  http://aot.ru/docs/delphi_seman_test.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/docs/statistics2006.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/docs/statistics2005.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/docs/statistics2004.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/authors.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:37--  http://aot.ru/cgi-bin/yawps/index.cgi
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:38 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:38--  http://aot.ru/docs/sokirko/MorphPPT.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:38--  http://aot.ru/DEMO/synt.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:38 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:38--  http://aot.ru/concor.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 416 Requested Range Not Satisfiable
+
+    Файл уже получен полностью; нет действий.
+
+--2020-01-20 09:27:38--  http://aot.ru/docs/morphexam_cpp.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 17901 (17K) [text/html]
+Сохранение в: «aot.ru/docs/morphexam_cpp.htm»
+
+     0K .......... .......                                    100%  202K=0,09s
+
+2020-01-20 09:27:38 (202 KB/s) - «aot.ru/docs/morphexam_cpp.htm» сохранён [17901/17901]
+
+--2020-01-20 09:27:38--  http://aot.ru/docs/morphexam_delphi.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 6477 (6,3K) [text/html]
+Сохранение в: «aot.ru/docs/morphexam_delphi.htm»
+
+     0K ......                                                100% 2,76M=0,002s
+
+2020-01-20 09:27:38 (2,76 MB/s) - «aot.ru/docs/morphexam_delphi.htm» сохранён [6477/6477]
+
+--2020-01-20 09:27:38--  http://aot.ru/docs/morphexam_delphi1.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 22998 (22K) [text/html]
+Сохранение в: «aot.ru/docs/morphexam_delphi1.htm»
+
+     0K .......... .......... ..                              100%  259K=0,09s
+
+2020-01-20 09:27:38 (259 KB/s) - «aot.ru/docs/morphexam_delphi1.htm» сохранён [22998/22998]
+
+--2020-01-20 09:27:38--  http://aot.ru/docs/morphexam_python.htm
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1741 (1,7K) [text/html]
+Сохранение в: «aot.ru/docs/morphexam_python.htm»
+
+     0K .                                                     100%  297M=0s
+
+2020-01-20 09:27:38 (297 MB/s) - «aot.ru/docs/morphexam_python.htm» сохранён [1741/1741]
+
+--2020-01-20 09:27:38--  http://aot.ru/docs/Graphan/index.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1333 (1,3K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/index.html»
+
+     0K .                                                     100% 91,7M=0s
+
+2020-01-20 09:27:38 (91,7 MB/s) - «aot.ru/docs/Graphan/index.html» сохранён [1333/1333]
+
+--2020-01-20 09:27:38--  http://aot.ru/docs/images/seman-001.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1096 (1,1K) [image/gif]
+Сохранение в: «aot.ru/docs/images/seman-001.gif»
+
+     0K .                                                     100% 87,2M=0s
+
+2020-01-20 09:27:39 (87,2 MB/s) - «aot.ru/docs/images/seman-001.gif» сохранён [1096/1096]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/seman-002.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1019 [image/gif]
+Сохранение в: «aot.ru/docs/images/seman-002.gif»
+
+     0K                                                       100%  118M=0s
+
+2020-01-20 09:27:39 (118 MB/s) - «aot.ru/docs/images/seman-002.gif» сохранён [1019/1019]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/seman-003.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 715 [image/gif]
+Сохранение в: «aot.ru/docs/images/seman-003.gif»
+
+     0K                                                       100% 36,5M=0s
+
+2020-01-20 09:27:39 (36,5 MB/s) - «aot.ru/docs/images/seman-003.gif» сохранён [715/715]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/seman-004.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1577 (1,5K) [image/gif]
+Сохранение в: «aot.ru/docs/images/seman-004.gif»
+
+     0K .                                                     100%  113M=0s
+
+2020-01-20 09:27:39 (113 MB/s) - «aot.ru/docs/images/seman-004.gif» сохранён [1577/1577]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/seman-005.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1084 (1,1K) [image/gif]
+Сохранение в: «aot.ru/docs/images/seman-005.gif»
+
+     0K .                                                     100%  127M=0s
+
+2020-01-20 09:27:39 (127 MB/s) - «aot.ru/docs/images/seman-005.gif» сохранён [1084/1084]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/seman-006.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 485 [image/gif]
+Сохранение в: «aot.ru/docs/images/seman-006.gif»
+
+     0K                                                       100% 19,2M=0s
+
+2020-01-20 09:27:39 (19,2 MB/s) - «aot.ru/docs/images/seman-006.gif» сохранён [485/485]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/seman-007.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 491 [image/gif]
+Сохранение в: «aot.ru/docs/images/seman-007.gif»
+
+     0K                                                       100% 42,8M=0s
+
+2020-01-20 09:27:39 (42,8 MB/s) - «aot.ru/docs/images/seman-007.gif» сохранён [491/491]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/transfer-001.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 690 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-001.gif»
+
+     0K                                                       100% 52,0M=0s
+
+2020-01-20 09:27:39 (52,0 MB/s) - «aot.ru/docs/images/transfer-001.gif» сохранён [690/690]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/transfer-002.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 800 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-002.gif»
+
+     0K                                                       100% 76,3M=0s
+
+2020-01-20 09:27:39 (76,3 MB/s) - «aot.ru/docs/images/transfer-002.gif» сохранён [800/800]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/transfer-003.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 732 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-003.gif»
+
+     0K                                                       100% 46,8M=0s
+
+2020-01-20 09:27:39 (46,8 MB/s) - «aot.ru/docs/images/transfer-003.gif» сохранён [732/732]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/transfer-004.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 879 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-004.gif»
+
+     0K                                                       100% 72,5M=0s
+
+2020-01-20 09:27:39 (72,5 MB/s) - «aot.ru/docs/images/transfer-004.gif» сохранён [879/879]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/transfer-005.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1561 (1,5K) [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-005.gif»
+
+     0K .                                                     100% 51,7M=0s
+
+2020-01-20 09:27:39 (51,7 MB/s) - «aot.ru/docs/images/transfer-005.gif» сохранён [1561/1561]
+
+--2020-01-20 09:27:39--  http://aot.ru/docs/images/transfer-006.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1409 (1,4K) [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-006.gif»
+
+     0K .                                                     100% 63,6M=0s
+
+2020-01-20 09:27:40 (63,6 MB/s) - «aot.ru/docs/images/transfer-006.gif» сохранён [1409/1409]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-007.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 928 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-007.gif»
+
+     0K                                                       100% 36,1M=0s
+
+2020-01-20 09:27:40 (36,1 MB/s) - «aot.ru/docs/images/transfer-007.gif» сохранён [928/928]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-008.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 901 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-008.gif»
+
+     0K                                                       100% 92,3M=0s
+
+2020-01-20 09:27:40 (92,3 MB/s) - «aot.ru/docs/images/transfer-008.gif» сохранён [901/901]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-009.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1036 (1,0K) [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-009.gif»
+
+     0K .                                                     100%  108M=0s
+
+2020-01-20 09:27:40 (108 MB/s) - «aot.ru/docs/images/transfer-009.gif» сохранён [1036/1036]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-015.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 100 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-015.gif»
+
+     0K                                                       100% 6,04M=0s
+
+2020-01-20 09:27:40 (6,04 MB/s) - «aot.ru/docs/images/transfer-015.gif» сохранён [100/100]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-010.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1218 (1,2K) [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-010.gif»
+
+     0K .                                                     100% 35,8M=0s
+
+2020-01-20 09:27:40 (35,8 MB/s) - «aot.ru/docs/images/transfer-010.gif» сохранён [1218/1218]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-011.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 691 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-011.gif»
+
+     0K                                                       100% 39,7M=0s
+
+2020-01-20 09:27:40 (39,7 MB/s) - «aot.ru/docs/images/transfer-011.gif» сохранён [691/691]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-012.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 829 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-012.gif»
+
+     0K                                                       100% 47,0M=0s
+
+2020-01-20 09:27:40 (47,0 MB/s) - «aot.ru/docs/images/transfer-012.gif» сохранён [829/829]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-013.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1324 (1,3K) [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-013.gif»
+
+     0K .                                                     100% 55,0M=0s
+
+2020-01-20 09:27:40 (55,0 MB/s) - «aot.ru/docs/images/transfer-013.gif» сохранён [1324/1324]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-014.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1022 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-014.gif»
+
+     0K                                                       100% 82,0M=0s
+
+2020-01-20 09:27:40 (82,0 MB/s) - «aot.ru/docs/images/transfer-014.gif» сохранён [1022/1022]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-016.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 969 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-016.gif»
+
+     0K                                                       100% 81,6M=0s
+
+2020-01-20 09:27:40 (81,6 MB/s) - «aot.ru/docs/images/transfer-016.gif» сохранён [969/969]
+
+--2020-01-20 09:27:40--  http://aot.ru/docs/images/transfer-017.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 891 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-017.gif»
+
+     0K                                                       100% 50,4M=0s
+
+2020-01-20 09:27:41 (50,4 MB/s) - «aot.ru/docs/images/transfer-017.gif» сохранён [891/891]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/images/transfer-018.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 701 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-018.gif»
+
+     0K                                                       100% 38,6M=0s
+
+2020-01-20 09:27:41 (38,6 MB/s) - «aot.ru/docs/images/transfer-018.gif» сохранён [701/701]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/images/transfer-019.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 889 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-019.gif»
+
+     0K                                                       100% 51,0M=0s
+
+2020-01-20 09:27:41 (51,0 MB/s) - «aot.ru/docs/images/transfer-019.gif» сохранён [889/889]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/images/transfer-020.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1255 (1,2K) [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-020.gif»
+
+     0K .                                                     100% 35,4M=0s
+
+2020-01-20 09:27:41 (35,4 MB/s) - «aot.ru/docs/images/transfer-020.gif» сохранён [1255/1255]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/images/transfer-021.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1024 (1,0K) [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-021.gif»
+
+     0K .                                                     100% 56,9M=0s
+
+2020-01-20 09:27:41 (56,9 MB/s) - «aot.ru/docs/images/transfer-021.gif» сохранён [1024/1024]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/images/transfer-022.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 672 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-022.gif»
+
+     0K                                                       100% 39,9M=0s
+
+2020-01-20 09:27:41 (39,9 MB/s) - «aot.ru/docs/images/transfer-022.gif» сохранён [672/672]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/images/transfer-023.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 808 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-023.gif»
+
+     0K                                                       100% 51,0M=0s
+
+2020-01-20 09:27:41 (51,0 MB/s) - «aot.ru/docs/images/transfer-023.gif» сохранён [808/808]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/images/transfer-024.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 405 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-024.gif»
+
+     0K                                                       100% 34,3M=0s
+
+2020-01-20 09:27:41 (34,3 MB/s) - «aot.ru/docs/images/transfer-024.gif» сохранён [405/405]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/images/transfer-025.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 828 [image/gif]
+Сохранение в: «aot.ru/docs/images/transfer-025.gif»
+
+     0K                                                       100% 52,7M=0s
+
+2020-01-20 09:27:41 (52,7 MB/s) - «aot.ru/docs/images/transfer-025.gif» сохранён [828/828]
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/p5
+Подключение к aot.ru (aot.ru)|195.70.213.239|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:41 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:41--  http://aot.ru/docs/p3
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:42 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:42--  http://aot.ru/download.shtml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:42 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:42--  http://aot.ru/docs/sokirko/sokirko-candid-4-1.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 124467 (122K) [text/html]
+Сохранение в: «aot.ru/docs/sokirko/sokirko-candid-4-1.html»
+
+     0K .......... .......... .......... .......... .......... 41%  283K 0s
+    50K .......... .......... .......... .......... .......... 82%  602K 0s
+   100K .......... .......... .                               100% 1,60M=0,3s
+
+2020-01-20 09:27:42 (445 KB/s) - «aot.ru/docs/sokirko/sokirko-candid-4-1.html» сохранён [124467/124467]
+
+--2020-01-20 09:27:42--  http://aot.ru/docs/sokirko/images/8-001.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 5569 (5,4K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-001.gif»
+
+     0K .....                                                 100% 2,36M=0,002s
+
+2020-01-20 09:27:42 (2,36 MB/s) - «aot.ru/docs/sokirko/images/8-001.gif» сохранён [5569/5569]
+
+--2020-01-20 09:27:42--  http://aot.ru/docs/sokirko/images/8-002.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1096 (1,1K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-002.gif»
+
+     0K .                                                     100% 98,2M=0s
+
+2020-01-20 09:27:42 (98,2 MB/s) - «aot.ru/docs/sokirko/images/8-002.gif» сохранён [1096/1096]
+
+--2020-01-20 09:27:42--  http://aot.ru/docs/sokirko/images/8-003.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 997 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-003.gif»
+
+     0K                                                       100% 54,1M=0s
+
+2020-01-20 09:27:42 (54,1 MB/s) - «aot.ru/docs/sokirko/images/8-003.gif» сохранён [997/997]
+
+--2020-01-20 09:27:42--  http://aot.ru/docs/sokirko/images/8-004.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1084 (1,1K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-004.gif»
+
+     0K .                                                     100% 83,3M=0s
+
+2020-01-20 09:27:42 (83,3 MB/s) - «aot.ru/docs/sokirko/images/8-004.gif» сохранён [1084/1084]
+
+--2020-01-20 09:27:42--  http://aot.ru/docs/sokirko/images/8-005.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1577 (1,5K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-005.gif»
+
+     0K .                                                     100% 88,3M=0s
+
+2020-01-20 09:27:42 (88,3 MB/s) - «aot.ru/docs/sokirko/images/8-005.gif» сохранён [1577/1577]
+
+--2020-01-20 09:27:42--  http://aot.ru/docs/sokirko/images/8-009.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 266 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-009.gif»
+
+     0K                                                       100% 17,0M=0s
+
+2020-01-20 09:27:42 (17,0 MB/s) - «aot.ru/docs/sokirko/images/8-009.gif» сохранён [266/266]
+
+--2020-01-20 09:27:42--  http://aot.ru/docs/sokirko/images/8-007.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 103 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-007.gif»
+
+     0K                                                       100% 6,01M=0s
+
+2020-01-20 09:27:43 (6,01 MB/s) - «aot.ru/docs/sokirko/images/8-007.gif» сохранён [103/103]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-008.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 104 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-008.gif»
+
+     0K                                                       100% 6,94M=0s
+
+2020-01-20 09:27:43 (6,94 MB/s) - «aot.ru/docs/sokirko/images/8-008.gif» сохранён [104/104]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-011.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 289 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-011.gif»
+
+     0K                                                       100% 24,3M=0s
+
+2020-01-20 09:27:43 (24,3 MB/s) - «aot.ru/docs/sokirko/images/8-011.gif» сохранён [289/289]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-010.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 290 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-010.gif»
+
+     0K                                                       100% 37,5M=0s
+
+2020-01-20 09:27:43 (37,5 MB/s) - «aot.ru/docs/sokirko/images/8-010.gif» сохранён [290/290]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-006.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 91 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-006.gif»
+
+     0K                                                       100% 9,10M=0s
+
+2020-01-20 09:27:43 (9,10 MB/s) - «aot.ru/docs/sokirko/images/8-006.gif» сохранён [91/91]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-013.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 340 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-013.gif»
+
+     0K                                                       100% 33,5M=0s
+
+2020-01-20 09:27:43 (33,5 MB/s) - «aot.ru/docs/sokirko/images/8-013.gif» сохранён [340/340]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-014.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 390 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-014.gif»
+
+     0K                                                       100% 82,4M=0s
+
+2020-01-20 09:27:43 (82,4 MB/s) - «aot.ru/docs/sokirko/images/8-014.gif» сохранён [390/390]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-012.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 396 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-012.gif»
+
+     0K                                                       100% 21,9M=0s
+
+2020-01-20 09:27:43 (21,9 MB/s) - «aot.ru/docs/sokirko/images/8-012.gif» сохранён [396/396]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-015.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 508 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-015.gif»
+
+     0K                                                       100% 32,6M=0s
+
+2020-01-20 09:27:43 (32,6 MB/s) - «aot.ru/docs/sokirko/images/8-015.gif» сохранён [508/508]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-017.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 377 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-017.gif»
+
+     0K                                                       100% 23,9M=0s
+
+2020-01-20 09:27:43 (23,9 MB/s) - «aot.ru/docs/sokirko/images/8-017.gif» сохранён [377/377]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-016.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 378 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-016.gif»
+
+     0K                                                       100% 22,4M=0s
+
+2020-01-20 09:27:43 (22,4 MB/s) - «aot.ru/docs/sokirko/images/8-016.gif» сохранён [378/378]
+
+--2020-01-20 09:27:43--  http://aot.ru/docs/sokirko/images/8-018.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 989 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-018.gif»
+
+     0K                                                       100% 91,0M=0s
+
+2020-01-20 09:27:44 (91,0 MB/s) - «aot.ru/docs/sokirko/images/8-018.gif» сохранён [989/989]
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/images/8-019.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1989 (1,9K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-019.gif»
+
+     0K .                                                     100%  173M=0s
+
+2020-01-20 09:27:44 (173 MB/s) - «aot.ru/docs/sokirko/images/8-019.gif» сохранён [1989/1989]
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/images/8-020.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 3439 (3,4K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-020.gif»
+
+     0K ...                                                   100% 13,8M=0s
+
+2020-01-20 09:27:44 (13,8 MB/s) - «aot.ru/docs/sokirko/images/8-020.gif» сохранён [3439/3439]
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/images/8-021.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2154 (2,1K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/8-021.gif»
+
+     0K ..                                                    100%  204M=0s
+
+2020-01-20 09:27:44 (204 MB/s) - «aot.ru/docs/sokirko/images/8-021.gif» сохранён [2154/2154]
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/images/eng-001.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:44 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/images/eng-002.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:44 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/images/eng-004.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:44 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/images/eng-003.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:44 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/Dialog_text-Dateien/filelist.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:44 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/OverviewOfConcordance-Dateien/filelist.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:44 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/Dialog2004-Dateien/filelist.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 225 [application/xml]
+Сохранение в: «aot.ru/docs/sokirko/Dialog2004-Dateien/filelist.xml»
+
+     0K                                                       100% 12,4M=0s
+
+2020-01-20 09:27:44 (12,4 MB/s) - «aot.ru/docs/sokirko/Dialog2004-Dateien/filelist.xml» сохранён [225/225]
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/Dialog2004-Dateien/editdata.mso
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:44 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:44--  http://aot.ru/docs/sokirko/Dialog2004-Dateien/oledata.mso
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 12823 (13K)
+Сохранение в: «aot.ru/docs/sokirko/Dialog2004-Dateien/oledata.mso»
+
+     0K .......... ..                                         100% 2,33M=0,005s
+
+2020-01-20 09:27:45 (2,33 MB/s) - «aot.ru/docs/sokirko/Dialog2004-Dateien/oledata.mso» сохранён [12823/12823]
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/sokirko/Dialog2004-Dateien/image002.jpg
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 19221 (19K) [image/jpeg]
+Сохранение в: «aot.ru/docs/sokirko/Dialog2004-Dateien/image002.jpg»
+
+     0K .......... ........                                   100% 2,50M=0,007s
+
+2020-01-20 09:27:45 (2,50 MB/s) - «aot.ru/docs/sokirko/Dialog2004-Dateien/image002.jpg» сохранён [19221/19221]
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/RusCorporaHMM_files/image001.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 846 [image/gif]
+Сохранение в: «aot.ru/docs/RusCorporaHMM_files/image001.gif»
+
+     0K                                                       100% 49,6M=0s
+
+2020-01-20 09:27:45 (49,6 MB/s) - «aot.ru/docs/RusCorporaHMM_files/image001.gif» сохранён [846/846]
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/statistics2005_files/filelist.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:45 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/statistics2004-Dateien/filelist.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:45 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/sokirko/MorphPPT-Dateien/filelist.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2439 (2,4K) [application/xml]
+Сохранение в: «aot.ru/docs/sokirko/MorphPPT-Dateien/filelist.xml»
+
+     0K ..                                                    100% 87,1M=0s
+
+2020-01-20 09:27:45 (87,1 MB/s) - «aot.ru/docs/sokirko/MorphPPT-Dateien/filelist.xml» сохранён [2439/2439]
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/sokirko/MorphPPT-Dateien/preview.wmf
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 21354 (21K)
+Сохранение в: «aot.ru/docs/sokirko/MorphPPT-Dateien/preview.wmf»
+
+     0K .......... ..........                                 100% 2,23M=0,009s
+
+2020-01-20 09:27:45 (2,23 MB/s) - «aot.ru/docs/sokirko/MorphPPT-Dateien/preview.wmf» сохранён [21354/21354]
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/sokirko/MorphPPT-Dateien/editdata.mso
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:45 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/sokirko/MorphPPT-Dateien/oledata.mso
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 162816 (159K)
+Сохранение в: «aot.ru/docs/sokirko/MorphPPT-Dateien/oledata.mso»
+
+     0K .......... .......... .......... .......... .......... 31% 1,72M 0s
+    50K .......... .......... .......... .......... .......... 62%  302K 0s
+   100K .......... .......... .......... .......... .......... 94% 27,0M 0s
+   150K .........                                             100% 36,6M=0,2s
+
+2020-01-20 09:27:45 (810 KB/s) - «aot.ru/docs/sokirko/MorphPPT-Dateien/oledata.mso» сохранён [162816/162816]
+
+--2020-01-20 09:27:45--  http://aot.ru/docs/sokirko/MorphPPT-Dateien/pres.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 3899 (3,8K) [application/xml]
+Сохранение в: «aot.ru/docs/sokirko/MorphPPT-Dateien/pres.xml»
+
+     0K ...                                                   100% 11,0M=0s
+
+2020-01-20 09:27:46 (11,0 MB/s) - «aot.ru/docs/sokirko/MorphPPT-Dateien/pres.xml» сохранён [3899/3899]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/morphexam_cpp.files/filelist.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:46 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/morphexam_delphi.files/filelist.xml
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 404 Not Found
+2020-01-20 09:27:46 ОШИБКА 404: Not Found.
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/Graphan/doxygen.css
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1802 (1,8K) [text/css]
+Сохранение в: «aot.ru/docs/Graphan/doxygen.css»
+
+     0K .                                                     100%  103M=0s
+
+2020-01-20 09:27:46 (103 MB/s) - «aot.ru/docs/Graphan/doxygen.css» сохранён [1802/1802]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/Graphan/annotated.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1141 (1,1K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/annotated.html»
+
+     0K .                                                     100% 88,3M=0s
+
+2020-01-20 09:27:46 (88,3 MB/s) - «aot.ru/docs/Graphan/annotated.html» сохранён [1141/1141]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/Graphan/files.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1116 (1,1K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/files.html»
+
+     0K .                                                     100% 84,1M=0s
+
+2020-01-20 09:27:46 (84,1 MB/s) - «aot.ru/docs/Graphan/files.html» сохранён [1116/1116]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/Graphan/functions.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 3255 (3,2K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/functions.html»
+
+     0K ...                                                   100%  193M=0s
+
+2020-01-20 09:27:46 (193 MB/s) - «aot.ru/docs/Graphan/functions.html» сохранён [3255/3255]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/Graphan/examples.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1162 (1,1K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/examples.html»
+
+     0K .                                                     100%  319M=0s
+
+2020-01-20 09:27:46 (319 MB/s) - «aot.ru/docs/Graphan/examples.html» сохранён [1162/1162]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/Graphan/doxygen.png
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2352 (2,3K) [image/png]
+Сохранение в: «aot.ru/docs/Graphan/doxygen.png»
+
+     0K ..                                                    100%  141M=0s
+
+2020-01-20 09:27:46 (141 MB/s) - «aot.ru/docs/Graphan/doxygen.png» сохранён [2352/2352]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/sokirko/images/4-001.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1096 (1,1K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/4-001.gif»
+
+     0K .                                                     100% 82,4M=0s
+
+2020-01-20 09:27:46 (82,4 MB/s) - «aot.ru/docs/sokirko/images/4-001.gif» сохранён [1096/1096]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/sokirko/images/4-002.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1019 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/4-002.gif»
+
+     0K                                                       100% 94,5M=0s
+
+2020-01-20 09:27:46 (94,5 MB/s) - «aot.ru/docs/sokirko/images/4-002.gif» сохранён [1019/1019]
+
+--2020-01-20 09:27:46--  http://aot.ru/docs/sokirko/images/4-003.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 715 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/4-003.gif»
+
+     0K                                                       100% 41,5M=0s
+
+2020-01-20 09:27:47 (41,5 MB/s) - «aot.ru/docs/sokirko/images/4-003.gif» сохранён [715/715]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/sokirko/images/4-004.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1577 (1,5K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/4-004.gif»
+
+     0K .                                                     100%  158M=0s
+
+2020-01-20 09:27:47 (158 MB/s) - «aot.ru/docs/sokirko/images/4-004.gif» сохранён [1577/1577]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/sokirko/images/4-005.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 1084 (1,1K) [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/4-005.gif»
+
+     0K .                                                     100% 54,1M=0s
+
+2020-01-20 09:27:47 (54,1 MB/s) - «aot.ru/docs/sokirko/images/4-005.gif» сохранён [1084/1084]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/sokirko/images/4-006.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 485 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/4-006.gif»
+
+     0K                                                       100% 56,7M=0s
+
+2020-01-20 09:27:47 (56,7 MB/s) - «aot.ru/docs/sokirko/images/4-006.gif» сохранён [485/485]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/sokirko/images/4-007.gif
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 491 [image/gif]
+Сохранение в: «aot.ru/docs/sokirko/images/4-007.gif»
+
+     0K                                                       100% 30,6M=0s
+
+2020-01-20 09:27:47 (30,6 MB/s) - «aot.ru/docs/sokirko/images/4-007.gif» сохранён [491/491]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/Graphan/interfaceIGraphmatFile.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 28102 (27K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/interfaceIGraphmatFile.html»
+
+     0K .......... .......... .......                         100% 1,90M=0,01s
+
+2020-01-20 09:27:47 (1,90 MB/s) - «aot.ru/docs/Graphan/interfaceIGraphmatFile.html» сохранён [28102/28102]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/Graphan/graphan_8idl-source.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 8772 (8,6K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/graphan_8idl-source.html»
+
+     0K ........                                              100% 2,80M=0,003s
+
+2020-01-20 09:27:47 (2,80 MB/s) - «aot.ru/docs/Graphan/graphan_8idl-source.html» сохранён [8772/8772]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/Graphan/_2TestCOMGraphan_2Test2_8cpp-example.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 2783 (2,7K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/_2TestCOMGraphan_2Test2_8cpp-example.html»
+
+     0K ..                                                    100%  104M=0s
+
+2020-01-20 09:27:47 (104 MB/s) - «aot.ru/docs/Graphan/_2TestCOMGraphan_2Test2_8cpp-example.html» сохранён [2783/2783]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/Graphan/_2TestCOMGraphan_2TestCOMGraphan_8cpp-example.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 4207 (4,1K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/_2TestCOMGraphan_2TestCOMGraphan_8cpp-example.html»
+
+     0K ....                                                  100% 5,54M=0,001s
+
+2020-01-20 09:27:47 (5,54 MB/s) - «aot.ru/docs/Graphan/_2TestCOMGraphan_2TestCOMGraphan_8cpp-example.html» сохранён [4207/4207]
+
+--2020-01-20 09:27:47--  http://aot.ru/docs/Graphan/interfaceIGraphmatFile-members.html
+Повторное использование соединения с aot.ru:80.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 6422 (6,3K) [text/html]
+Сохранение в: «aot.ru/docs/Graphan/interfaceIGraphmatFile-members.html»
+
+     0K ......                                                100% 2,49M=0,002s
+
+2020-01-20 09:27:47 (2,49 MB/s) - «aot.ru/docs/Graphan/interfaceIGraphmatFile-members.html» сохранён [6422/6422]
+
+ЗАВЕРШЕНО --2020-01-20 09:27:47--
+Общее время: 15s
+Загружено: 86 файлов, 505K за 0,7s (732 KB/s)
+Преобразование ссылок в aot.ru/docs/statistics2004.htm… 0-1
+Преобразование ссылок в aot.ru/search1.html… 22-1
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-4.html… 90-4
+Преобразование ссылок в aot.ru/docs/transfer.html… 68-2
+Преобразование ссылок в aot.ru/docs/RusCorporaHMM.htm… 3-0
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-3.html… 42-4
+Преобразование ссылок в aot.ru/docs/morphexam_python.htm… действия не заданы.
+Преобразование ссылок в aot.ru/images/pankrat_email.gif… действия не заданы.
+Преобразование ссылок в aot.ru/docs/synan.html… 124-2
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-2.html… 78-4
+Преобразование ссылок в aot.ru/docs/Graphan/index.html… 7-0
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-eng.html… 45-9
+Преобразование ссылок в aot.ru/docs/statistics2005.htm… 0-1
+Преобразование ссылок в aot.ru/docs/morphexam_delphi.htm… действия не заданы.
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-1.html… 34-4
+Преобразование ссылок в aot.ru/docs/sokirko/MorphPPT.htm… 4-1
+Преобразование ссылок в aot.ru/old_news.html… 36-4
+Преобразование ссылок в aot.ru/download/Morphology.zip… действия не заданы.
+Преобразование ссылок в aot.ru/docs/sokirko/Dialog2004.htm… 11-1
+Преобразование ссылок в aot.ru/onlinedemo.html… 23-5
+Преобразование ссылок в aot.ru/docs/fragman.html… 67-5
+Преобразование ссылок в aot.ru/docs/Nozhov/chapter1.pdf… действия не заданы.
+Преобразование ссылок в aot.ru/docs/statistics2006.htm… действия не заданы.
+Преобразование ссылок в aot.ru/docs/oborots.html… 27-2
+Преобразование ссылок в aot.ru/search.html… 29-1
+Преобразование ссылок в aot.ru/docs/Graphan/annotated.html… 8-0
+Преобразование ссылок в aot.ru/docs/ross.html… 45-2
+Преобразование ссылок в aot.ru/download/MorphWizard.zip… действия не заданы.
+Преобразование ссылок в aot.ru/docs/collocs.html… 25-2
+Преобразование ссылок в aot.ru/docs/graphan.html… 30-2
+Преобразование ссылок в aot.ru/docs/timeross.html… 21-2
+Преобразование ссылок в aot.ru/docs/Graphan/files.html… 8-0
+Преобразование ссылок в aot.ru/docs/Graphan/interfaceIGraphmatFile-members.html… 56-0
+Преобразование ссылок в aot.ru/download/LexGroup.rar… действия не заданы.
+Преобразование ссылок в aot.ru/docs/Nozhov/chapter2.pdf… действия не заданы.
+Преобразование ссылок в aot.ru/docs/Graphan/examples.html… 9-0
+Преобразование ссылок в aot.ru/docs/thes.html… 32-2
+Преобразование ссылок в aot.ru/docs/sokirko/MorphPPT-Dateien/oledata.mso… действия не заданы.
+Преобразование ссылок в aot.ru/docs/Graphan/_2TestCOMGraphan_2Test2_8cpp-example.html… 7-0
+Преобразование ссылок в aot.ru/history.html… 49-2
+Преобразование ссылок в aot.ru/docs/morphexam_cpp.htm… 0-1
+Преобразование ссылок в aot.ru/docs/Dialog_text.htm… 4-1
+Преобразование ссылок в aot.ru/images/tech-sch.gif… действия не заданы.
+Преобразование ссылок в aot.ru/docs/Nozhov/chapter3.pdf… действия не заданы.
+Преобразование ссылок в aot.ru/docs/delphi_seman_test.html… действия не заданы.
+Преобразование ссылок в aot.ru/docs/Graphan/interfaceIGraphmatFile.html… 34-0
+Преобразование ссылок в aot.ru/docs/morph.html… 36-2
+Преобразование ссылок в aot.ru/index.html… 24-0
+Преобразование ссылок в aot.ru/docs/Nozhov/chapter4.pdf… действия не заданы.
+Преобразование ссылок в aot.ru/images/transparent.gif… действия не заданы.
+Преобразование ссылок в aot.ru/docs/sokirko/MorphPPT-Dateien/preview.wmf… действия не заданы.
+Преобразование ссылок в aot.ru/download/concord.zip… действия не заданы.
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-4-1.html… 131-4
+Преобразование ссылок в aot.ru/docs/mapost.html… 67-2
+Преобразование ссылок в aot.ru/docs/Graphan/graphan_8idl-source.html… 10-0
+Преобразование ссылок в aot.ru/download/RusLemmatizer.zip… действия не заданы.
+Преобразование ссылок в aot.ru/docs/Graphan/_2TestCOMGraphan_2TestCOMGraphan_8cpp-example.html… 7-0
+Преобразование ссылок в aot.ru/concor.html… 1-0
+Преобразование ссылок в aot.ru/docs/Graphan/functions.html… 31-0
+Преобразование ссылок в aot.ru/docs/Nozhov/msot.pdf… действия не заданы.
+Преобразование ссылок в aot.ru/aot.css… действия не заданы.
+Преобразование ссылок в aot.ru/docs/rusmorph.html… 19-2
+Преобразование ссылок в aot.ru/docs/Nozhov/supplement1.pdf… действия не заданы.
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-8.html… 78-4
+Преобразование ссылок в aot.ru/docs/seman.html… 92-2
+Преобразование ссылок в aot.ru/docs/sokirko/Dialog2004-Dateien/oledata.mso… действия не заданы.
+Преобразование ссылок в aot.ru/docs/morphexam_delphi1.htm… 0-1
+Преобразование ссылок в aot.ru/download.php… 30-0
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-7.html… 28-4
+Преобразование ссылок в aot.ru/docs/OverviewOfConcordance.htm… 10-1
+Преобразование ссылок в aot.ru/technology.html… 67-3
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-6.html… 32-4
+Преобразование ссылок в aot.ru/docs/Nozhov/supplement2.pdf… действия не заданы.
+Преобразование ссылок в aot.ru/authors.html… действия не заданы.
+Преобразование ссылок в aot.ru/docs/aoss.html… 56-2
+Преобразование ссылок в aot.ru/docs/sokirko/sokirko-candid-5.html… 32-4
+Преобразование ссылок в aot.ru/docs/Graphan/doxygen.css… действия не заданы.
+Ссылки преобразованы в файлы (77) за 0,06 секунд.
